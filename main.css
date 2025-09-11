@@ -1,0 +1,111 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background: lightskyblue;
+  color: rgb(255, 255, 255);
+  padding: 1rem;
+  text-align: center;
+}
+
+nav {
+  background: black;
+  padding: 0.1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+  background:lightyellow;
+}
+
+footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  font-size: 30px ;
+
+
+}
+
+  body {
+  background-color: lightyellow;
+  color: black;
+  font-family: 'Barlow Semi Condensed';
+}
+
+h1 {
+  color: white;
+  text-align: center;
+
+}
+
+h2 {
+  color: black;
+  font-size: 40px;
+}
+
+a {
+  color: darkred;
+}
+
+button {
+  background-color: lightskyblue;
+  color: black;
+  font-size: 40px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.hi {
+  color: black;
+  font-size: 50px;
+  font-family: 'Barlow Semi Condensed';
+}
+
+.hi2 {
+  width: 3%;
+  height:3%;
+}
+
+.hi3 {
+  font-size: 50px;
+  color:black;
+  text-align: center;
+  background-color: lightskyblue;
+  padding: 1rem;
+  font-family: 'Barlow Semi Condensed';
+}
+
+.hi4 {
+  font-size: 45px;
+  text-align: center;
+}
+
+
+.hi6{
+  font-size: 30px;
+  text-align: center;
+}
+
+.hi7{
+  text-align: right;
+}

@@ -109,3 +109,10 @@ button {
 .hi7{
   text-align: right;
 }
+
+button:hover {
+  background-color: lightskyblue; /* Changes background on hover */
+  color: black; /* Changes text color on hover */
+  transform: scale(1.05); /* Slightly enlarges the button */
+  transition: all 0.3s ease; /* Smooth animation */
+}
